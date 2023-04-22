@@ -1,0 +1,4 @@
+.callout[data-callout="theorem"] {
+    --callout-color: 255, 127, 127;
+    --callout-icon: flame;
+}
