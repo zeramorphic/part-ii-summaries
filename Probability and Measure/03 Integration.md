@@ -17,3 +17,8 @@
 > **Dominated convergence theorem**. Let $f_n, f$ be measurable and $|f_n| \leq g$ a.e. where $g$ is a $\mu$-integrable dominating function. Let $f_n \to f$ a.e., then $f_n, f$ are integrable and $\mu(f_n) \to \mu(f)$.
 
 We can apply Riemann integration techniques to Lebesgue integration (valid for all bounded measurable functions) using the monotone class theorem.
+
+> [!theorem]
+> **Differentiation under the integral sign**. Let $U$ be an open set of reals. Let $f \colon U \times E \to \mathbb R$ be a function parametrised by a real in $U$. Suppose that $f$ is measurable at every $t \in U$, and $f$ is differentiable w.r.t. $t$ for every $x$. Suppose that the derivative $\frac{\partial f}{\partial t}$ is bounded by an integrable dominating function $g$. Then,
+> $$ \frac{\mathrm{d}}{\mathrm{d} t} \int_E f(t,x)\,\mathrm{d}\mu(x) = \int_E \frac{\partial f}{\partial t}(t,x)\,\mathrm{d}\mu(x) $$
+
