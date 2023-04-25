@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Measure/06 Fourier analysis.md",
+                "file": "Galois Theory/09 Cubics, quartics, and quintics.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Measure/06 Fourier analysis.md",
+                "file": "Galois Theory/09 Cubics, quartics, and quintics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Measure/06 Fourier analysis.md",
+                "file": "Galois Theory/09 Cubics, quartics, and quintics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Measure/06 Fourier analysis.md"
+                "file": "Galois Theory/09 Cubics, quartics, and quintics.md"
               }
             }
           }
@@ -209,10 +209,20 @@
   },
   "active": "0ca7331415836ebf",
   "lastOpenFiles": [
-    "Probability and Measure/05 Function spaces and norms.md",
-    "Probability and Measure/06 Fourier analysis.md",
-    "Probability and Measure/02 Measurable functions.md",
+    "Galois Theory/08 Algebraic closure.md",
+    "Galois Theory/09 Cubics, quartics, and quintics.md",
+    "Galois Theory/04 Galois theory.md",
+    "Galois Theory/03 Types of field extensions.md",
+    "Galois Theory/07 Trace and norm.md",
+    "Galois Theory/06 Cyclotomic and Kummer extensions.md",
+    "Galois Theory/05 Finite fields.md",
+    "Galois Theory/02 Fields.md",
+    "Galois Theory/01 Polynomials.md",
     "Probability and Measure/01 Measures.md",
+    "Probability and Measure/06 Fourier analysis.md",
+    "Galois Theory",
+    "Probability and Measure/05 Function spaces and norms.md",
+    "Probability and Measure/02 Measurable functions.md",
     "Probability and Measure/04 Product measures.md",
     "Probability and Measure/03 Integration.md",
     "Untitled.md",
