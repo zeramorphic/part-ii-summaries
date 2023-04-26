@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Topology/04 Covering spaces.md",
+                "file": "Algebraic Topology/07 Simplicial homology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebraic Topology/04 Covering spaces.md",
+                "file": "Algebraic Topology/07 Simplicial homology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebraic Topology/04 Covering spaces.md",
+                "file": "Algebraic Topology/07 Simplicial homology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebraic Topology/04 Covering spaces.md"
+                "file": "Algebraic Topology/07 Simplicial homology.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "0ca7331415836ebf",
   "lastOpenFiles": [
-    "Algebraic Topology/03 Groups from loops.md",
+    "Algebraic Topology/06 Simplicial complexes.md",
+    "Algebraic Topology/07 Simplicial homology.md",
+    "Algebraic Topology/05 Seifert-Van Kampen theorem.md",
     "Algebraic Topology/04 Covering spaces.md",
+    "Probability and Measure/03 Integration.md",
+    "Algebraic Topology/03 Groups from loops.md",
     "Algebraic Topology/02 Homotopy.md",
     "Galois Theory/09 Cubics, quartics, and quintics.md",
     "Algebraic Topology",
@@ -167,7 +171,6 @@
     "Probability and Measure/05 Function spaces and norms.md",
     "Probability and Measure/02 Measurable functions.md",
     "Probability and Measure/04 Product measures.md",
-    "Probability and Measure/03 Integration.md",
     "Untitled.md",
     "Probability and Measure"
   ]

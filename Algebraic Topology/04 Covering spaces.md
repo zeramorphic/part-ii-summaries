@@ -11,10 +11,12 @@ A lift of $f \colon Z \to X$ is $\hat f \colon Z \to \hat X$ where $p \circ \hat
 - Thus, any path has the unique lifting property by the Lebesgue covering lemma.
 - Any homotopy $H \colon I \times I \to X$ has the lifting property at $(0,0)$ by applying the Lebesgue covering lemma and inductively extending the unique lift to small square patches.
 - Uniqueness of homotopy lifting follows from uniqueness of path lifting.
-- Let $\gamma_0, \gamma_1 \in \Omega(X,x_0,x_1)$ and $\gamma_0 \sim_e \gamma_1$. Then $\hat\gamma_0 \sim_e \hat\gamma_1$ as long as we lift $x_0$ to the same point in $\hat X$.
-- Hence $\hat\gamma_0(1) = \hat\gamma_1(1)$. Define $\varepsilon_p \colon \pi(X,x_0) \to p^{-1}(x_0)$ by $\varepsilon_p[\gamma] = \hat\gamma(1)$ for a particular choice of $\hat x_0$.
+- Let $\gamma_0, \gamma_1 \in \Omega(X,x_0,x_1)$ and $\gamma_0 \sim_e \gamma_1$. Then $\hat\gamma_0 \sim_e \hat\gamma_1$ as long as we lift $x_0$ to the same point in $\hat X$. Hence $\hat\gamma_0(1) = \hat\gamma_1(1)$.
+- A space is locally path connected if every neighbourhood of a point has a path-connected subneighbourhood.
+- (!) Let $Z$ be a simply connected, locally path-conneted space. Then $f \colon (Z,z_0) \to (X,x_0)$ has a unique lift $\hat f \colon (Z,z_0) \to (\hat X, \hat x_0)$.
 
 A covering map is a universal cover if $\hat X$ is simply connected.
+- Define $\varepsilon_p \colon \pi(X,x_0) \to p^{-1}(x_0)$ by $\varepsilon_p[\gamma] = \hat\gamma(1)$ for a particular choice of $\hat x_0$.
 - If $p$ is a universal cover, $\varepsilon_p \colon \pi_1(X,x_0) \to p^{-1}(x_0)$ is a bijection of sets, as it is injective and surjective.
 - $\varepsilon_p \colon \pi_1(S^1, 1) \to \mathbb Z$ is an isomorphism of groups under the covering map $x \mapsto e^{2\pi i x}$.
 - $S^1$ is not contractible, otherwise it would be simply connected.
@@ -23,3 +25,35 @@ A covering map is a universal cover if $\hat X$ is simply connected.
 - Let $f_n(z) = z^n$. Then $\deg f_n = n$.
 - (check through proof) $g_0, g_1 \colon S^1 \to S^1$ are homotopic iff they have the same degree.
 - $g \colon S^1 \to S^1$ extends to $D^2$ iff its degree is zero.
+
+Wedge products.
+- The wedge product of pointed spaces is $\bigvee_{i=1}^n (X_i, x_i) = \coprod_{i=1}^n (X_i,x_i)/\sim$ where $x_i \sim x_j$.
+- The universal cover of $S^1 \vee S^1$ is $T_\infty(4)$. So there is a bijection $\varepsilon_p \colon \pi_1(S^1 \vee S^1, x_0) \to p^{-1}(\{x_0\})$. In particular $\pi_1$ isn't abelian.
+
+Covering transformations.
+- Let $p_i, \hat X_i \to X$ be covering maps. $p \colon (p_1, \hat X_1) \to (p_2, \hat X_2)$ is a map $p \colon \hat X_1 \to \hat X_2$ such that $p_2 \circ p = p_1$. Think: $p$ is a lift of $p_1$ to $\hat X_2$.
+- If $X$ lpc, covering transformations are covering maps.
+- Bijective covering maps are homeomorphisms.
+- A covering transformation is a covering isomorphism if it is bijective (hence a homeomorphism).
+- Universal covers factor through all other covers.
+- Universal covers are unique up to homeomorphism, as the covering transformation between them is bijective.
+
+The deck group is the set of covering automorphisms $g \colon (p, \hat X) \to (p, \hat X)$ which forms a group under composition. This group acts on $\hat X$ on the left.
+- There is a bijection between the deck group and preimages of the basepoint, because if we change the preimage of the basepoint, we obtain a different universal cover and there is a covering isomorphism between them.
+- The deck group of a universal cover is isomorphic to the fundamental group.
+- Let $H \leq G = G_D$, then $\widetilde X \xrightarrow{\pi_H} X_H \xrightarrow{p_H} X$ where
+	- $X_H = H \backslash X$ is the quotient given by $h \cdot x \sim x$
+	- $\pi_H$ is the quotient map
+	- $p_H$ is given by $p_H(H \cdot x) = q(x)$
+- In particular, $H = G$ gives $X \simeq G \backslash \widetilde X$ as $p_G$ is a covering isomorphism.
+- $p$ is a normal cover if the deck group acts transitively on $p^{-1}(x_0)$.
+- The universal cover is normal.
+- For any covering map $p$, $p_\star \colon \pi_1(\hat X, \hat x_0) \to \pi_1(X,x_0)$ is injective. So $\pi_1(\hat X) \simeq \mathrm{Im}\,p_\star \leq \pi_1(X)$.
+
+There is a bijection between the set of subgroups of $\pi_1(X,x_0)$ and the set of path-connected covering maps of $(X, x_0)$ up to covering isomorphism. This is because the maps between these sets are inverses.
+-  $G$ is mapped to the identity covering map
+- 1 is mapped to the universal cover
+- $[G:H] = |p_H^{-1}(x_0)|$
+- $g^{-1} H g$ corresponds to a change of base point
+- Normal subgroups correspond to normal covers
+- If $H$ is normal, $G/H$ corresponds to the deck group $G_D(p_H)$
