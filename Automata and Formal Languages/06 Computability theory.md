@@ -1,0 +1,2 @@
+- $f_{M,k} \colon \mathbb W^k \to \mathbb W$ has $f_{M,k}(\mathbf w) \uparrow$ if it does not halt on input $\mathbf w$, and $f_{M,k}(w) = v_0$ if $\mathbf v$ is the register content at time of halting.
+- 

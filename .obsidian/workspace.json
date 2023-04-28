@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automata and Formal Languages/04 Context-free languages.md",
+                "file": "Automata and Formal Languages/06 Computability theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automata and Formal Languages/04 Context-free languages.md",
+                "file": "Automata and Formal Languages/06 Computability theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automata and Formal Languages/04 Context-free languages.md",
+                "file": "Automata and Formal Languages/06 Computability theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automata and Formal Languages/04 Context-free languages.md"
+                "file": "Automata and Formal Languages/06 Computability theory.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "0ca7331415836ebf",
   "lastOpenFiles": [
-    "Automata and Formal Languages/03 Regular languages.md",
+    "Automata and Formal Languages/05 Register machines.md",
+    "Automata and Formal Languages/06 Computability theory.md",
     "Automata and Formal Languages/04 Context-free languages.md",
+    "Probability and Measure/01 Measures.md",
+    "Automata and Formal Languages/03 Regular languages.md",
     "Automata and Formal Languages/02 Rewrite systems.md",
     "Algebraic Topology/07 Simplicial homology.md",
     "Automata and Formal Languages",
@@ -169,13 +172,11 @@
     "Galois Theory/05 Finite fields.md",
     "Galois Theory/02 Fields.md",
     "Galois Theory/01 Polynomials.md",
-    "Probability and Measure/01 Measures.md",
     "Probability and Measure/06 Fourier analysis.md",
     "Galois Theory",
     "Probability and Measure/05 Function spaces and norms.md",
     "Probability and Measure/02 Measurable functions.md",
     "Probability and Measure/04 Product measures.md",
-    "Untitled.md",
     "Probability and Measure"
   ]
 }
