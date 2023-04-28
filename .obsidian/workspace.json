@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Topology/07 Simplicial homology.md",
+                "file": "Automata and Formal Languages/04 Context-free languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebraic Topology/07 Simplicial homology.md",
+                "file": "Automata and Formal Languages/04 Context-free languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebraic Topology/07 Simplicial homology.md",
+                "file": "Automata and Formal Languages/04 Context-free languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebraic Topology/07 Simplicial homology.md"
+                "file": "Automata and Formal Languages/04 Context-free languages.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "0ca7331415836ebf",
   "lastOpenFiles": [
-    "Algebraic Topology/06 Simplicial complexes.md",
+    "Automata and Formal Languages/03 Regular languages.md",
+    "Automata and Formal Languages/04 Context-free languages.md",
+    "Automata and Formal Languages/02 Rewrite systems.md",
     "Algebraic Topology/07 Simplicial homology.md",
+    "Automata and Formal Languages",
+    "Algebraic Topology/06 Simplicial complexes.md",
     "Algebraic Topology/05 Seifert-Van Kampen theorem.md",
     "Algebraic Topology/04 Covering spaces.md",
     "Probability and Measure/03 Integration.md",
