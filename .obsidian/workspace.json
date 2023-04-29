@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebraic Geometry/05 Algebraic curves.md",
+                "file": "Algebraic Geometry/06 Differentials.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebraic Geometry/05 Algebraic curves.md",
+                "file": "Algebraic Geometry/06 Differentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebraic Geometry/05 Algebraic curves.md",
+                "file": "Algebraic Geometry/06 Differentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebraic Geometry/05 Algebraic curves.md"
+                "file": "Algebraic Geometry/06 Differentials.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "f6b6216788546c68",
   "lastOpenFiles": [
-    "Algebraic Geometry/04 Dimension.md",
     "Algebraic Geometry/05 Algebraic curves.md",
+    "Algebraic Geometry/06 Differentials.md",
+    "Algebraic Geometry/04 Dimension.md",
     "Algebraic Geometry/03 Projective varieties.md",
     "Algebraic Geometry/02 Structures on varieties.md",
     "Algebraic Geometry/01 Affine varieties.md",
@@ -189,7 +190,6 @@
     "Galois Theory/06 Cyclotomic and Kummer extensions.md",
     "Galois Theory/05 Finite fields.md",
     "Galois Theory/02 Fields.md",
-    "Galois Theory/01 Polynomials.md",
     "Galois Theory",
     "Probability and Measure"
   ]
