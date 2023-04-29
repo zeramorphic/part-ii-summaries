@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automata and Formal Languages/06 Computability theory.md",
+                "file": "Algebraic Geometry/04 Dimension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6b6216788546c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebraic Geometry/05 Algebraic curves.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automata and Formal Languages/06 Computability theory.md",
+                "file": "Algebraic Geometry/05 Algebraic curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automata and Formal Languages/06 Computability theory.md",
+                "file": "Algebraic Geometry/05 Algebraic curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automata and Formal Languages/06 Computability theory.md"
+                "file": "Algebraic Geometry/05 Algebraic curves.md"
               }
             }
           }
@@ -146,10 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ca7331415836ebf",
+  "active": "f6b6216788546c68",
   "lastOpenFiles": [
-    "Automata and Formal Languages/05 Register machines.md",
+    "Algebraic Geometry/04 Dimension.md",
+    "Algebraic Geometry/05 Algebraic curves.md",
+    "Algebraic Geometry/03 Projective varieties.md",
+    "Algebraic Geometry/02 Structures on varieties.md",
+    "Algebraic Geometry/01 Affine varieties.md",
     "Automata and Formal Languages/06 Computability theory.md",
+    "Algebraic Geometry",
+    "Automata and Formal Languages/05 Register machines.md",
     "Automata and Formal Languages/04 Context-free languages.md",
     "Automata and Formal Languages/03 Regular languages.md",
     "Automata and Formal Languages/02 Rewrite systems.md",
@@ -171,12 +190,7 @@
     "Galois Theory/05 Finite fields.md",
     "Galois Theory/02 Fields.md",
     "Galois Theory/01 Polynomials.md",
-    "Probability and Measure/01 Measures.md",
-    "Probability and Measure/06 Fourier analysis.md",
     "Galois Theory",
-    "Probability and Measure/05 Function spaces and norms.md",
-    "Probability and Measure/02 Measurable functions.md",
-    "Probability and Measure/04 Product measures.md",
     "Probability and Measure"
   ]
 }
